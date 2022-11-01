@@ -2,6 +2,9 @@
 - Setup an ec2 with tomcat installed with the sample.war
 - To demo app2c installation and usage
 - Refer to my google slides on this.
+  - google slides have been completed. So it can be a live demo
+    or a screenshot demo - to be decided.
+  - currently (20221101), the slides do not cover pipeline part in detail.
 
 ## Preq-req: Setting up ec2 with tomcat and sample.war installed
 - the ec2 will be used to test app2c
